@@ -13,6 +13,6 @@ public class Fruit {
     }
 
     public String isFruit() {
-        return "true";
+        return "true branch1";
     }
 }
