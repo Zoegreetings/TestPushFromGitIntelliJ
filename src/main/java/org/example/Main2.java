@@ -7,6 +7,7 @@ public class Main2 {
         Pear pear = new Pear();
         System.out.println(pear.isHappy());
         Fruit f = new Fruit();
+        System.out.println("this is something new");
         System.out.printf("test push this is an fruit %s%n", f.isFruit());
     }
 }
