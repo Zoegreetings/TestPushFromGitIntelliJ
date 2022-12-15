@@ -7,11 +7,11 @@ class FruitTest {
     @Test
     void testIsFruit(){
            Fruit f = new Fruit();
-           assertEquals(f.isFruit(), "trueddddddd");
+           assertEquals(f.isFruit(), "true");
       }
     @Test
     void testIsFruit2(){
         Fruit f = new Fruit();
-        assertEquals(f.isFruit(), "truwwwwwwwww");
+        assertEquals(f.isFruit(), "true");
     }
 }
