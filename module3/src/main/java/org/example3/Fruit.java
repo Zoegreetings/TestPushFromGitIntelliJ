@@ -12,6 +12,6 @@ public class Fruit {
     public Fruit() {
     }
     public String isFruit() {
-        return "true branch1";
+        return "true branch1-2";
     }
 }
